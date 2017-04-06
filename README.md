@@ -1,3 +1,3 @@
 ## nodeppt repo
 
-* test
+* use as a private repo
