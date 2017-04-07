@@ -74,6 +74,7 @@ function add1(x) {
 * [Emscripten](http://kripken.github.io/emscripten-site/)
 * [Binaryen](https://github.com/WebAssembly/binaryen)
 * [Wabt](https://github.com/WebAssembly/wabt)
+* LLVM
 
 [slide]
 ## 内存空间 和 变量映射表
@@ -93,7 +94,9 @@ function add1(x) {
 ## 运行速度对比
 
 [slide]
-## rust
+## 其他
+* rust
+* 安全
 
 [slide]
 ## 谢谢
