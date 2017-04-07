@@ -12,12 +12,12 @@ usemathjax: yes
 [slide]
 ## 什么是 WebAssembly
 ----
-* 定义一个可移植，体积紧凑，加载迅捷的二进制格式为编译目标，而此二进制格式文件将可以在各种平台（包括移动设备和物联网设备）上被编译，然后发挥通用的硬件性能以原生应用的速度运行。
+* 定义一个可移植，体积紧凑，加载迅捷的二进制格式为编译目标，而此二进制格式文件将可以在各种平台（包括移动设备和物联网设备）上被编译，然后发挥通用的硬件性能以原生应用的速度运行。 {:&.rollIn}
 * 在 web 环境中使用 javascript 以外的语言。
 
 [slide]
 ## 为什么需要 WebAssembly
-* 目标为二进制，理论上可以从任何语言编译
+* 目标为二进制，理论上可以从任何语言编译 {:&.rollIn}
 * 减小下载文件体积
 * 加快解码速度
 
@@ -30,7 +30,7 @@ usemathjax: yes
 [slide]
 ## 和 javscript 对比
 ----
-* 最初的 javascript 解释器
+* 最初的 javascript 解释器 {:&.rollIn}
 * JIT(v8)
 ```javascript
 funtion add(a, b) {
@@ -82,7 +82,6 @@ function add1(x) {
 
 [slide]
 ## wasm 和 wast
-
 * wast 是 wasm 对等的文本描述
 * wast 是 S-表达式 https://en.wikipedia.org/wiki/S-expression
 
@@ -97,4 +96,5 @@ function add1(x) {
 ## rust
 
 [slide]
+## 谢谢
 * sample https://github.com/doxiaodong/WebAssembly-sample
