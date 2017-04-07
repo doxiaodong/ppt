@@ -95,3 +95,6 @@ function add1(x) {
 
 [slide]
 ## rust
+
+[slide]
+* sample https://github.com/doxiaodong/WebAssembly-sample
